@@ -20,6 +20,7 @@ window.onload = function() {
 
 
     }
-            showTime();
-        setInterval(showTime,1000);
+    
+    showTime();
+    setInterval(showTime,1000);
 };
